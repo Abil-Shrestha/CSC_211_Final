@@ -1,0 +1,10 @@
+Marshall Mathers,100 Colonel ln,Queens,NY,10308,3472371878,1010;
+Maria Carey,3 Martin Dr,Elmhurst,NY,10307,7049962832,1020;
+John Cena,3363 Shady ln,SunnySide,NY,12308,3103311106,1030;
+Hulk Hogan,4797 Cliffside Dr,Queens,NY,11890,7607881666,1040;
+John Orangeseed,1730 Waldeck st,Elmhurst,NY,10928,6208846748,1050;
+Bob Hanks,2876 Losh Ln,SunnySide,NY,11368,9182550169,2010;
+Money Mo,1507 Alpha Ave,Queens,NY,12768,3305395330,2020;
+Shawn Carter,351 Gregory Ln,Elmhurst,NY,12989,7193101706,2030;
+Aubrey Graham,1601 Oak Rd,Queens,NY,18290,3083811931,2040;
+Jimmy Decatrel,3752 Red Dog Rd,SunnySide,NY,12890,3035484841,2050;
